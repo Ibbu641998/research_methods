@@ -1,6 +1,1 @@
-- For analysing the user could use the webcam or some other digital device for detecting the gender and age.
-- How to employ the additional trained data and the major difficult complex system for making the detection performance more slightly rising.
-- Can the outcome gathered from the detection of gender and age while using the data science could be exactly the suitable for performing the future outcomes?
-- For the gender detection and age prediction feature extraction and image processing are used majorly.
-- How the data science algorithm needs the large amount of data, and it will follow the attributes for recognising the object of the image.
-- How the effective object detection method can be used for the face object detection while using the Haar feature-based cascade classifiers.
+How are the age and gender estimated using data science techniques in deep learning-based CNN technique and compared to the traditional methods for age and gender estimation using automatic face recognition?
