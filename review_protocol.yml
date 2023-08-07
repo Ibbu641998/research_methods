@@ -1,29 +1,52 @@
-- For analysing the user could use the webcam or some other digital device for detecting the gender and age.
-- How to employ the additional trained data and the major difficult complex system for making the detection performance more slightly rising.
-- Can the outcome gathered from the detection of gender and age while using the data science could be exactly the suitable for performing the future outcomes?
-- For the gender detection and age prediction feature extraction and image processing are used majorly.
-- How the data science algorithm needs the large amount of data, and it will follow the attributes for recognising the object of the image.
-- How the effective object detection method can be used for the face object detection while using the Haar feature-based cascade classifiers.
+Revised Topic
+Gender and Age Detection with Deep Learning: Analysing Facial Attributes for Intelligent Applications"
+1. Introduction: The role of age and gender in social interactions, as well as the relevance of these factors in applications such as access control, human-computer interface, and law enforcement.
+2. Dataset and Methodology: The goal of this study is to create a gender and age detector utilising deep learning, with an emphasis on CNN technology and data mining approaches.
+3. Facial Analysis Difficulties: Face detection complexity owing to illumination, position, and expressions. Variations in perceived compared to true age. The significance of facial features such as brows and facial landmarks.
+4. Deep Learning Approaches: Using convolutional neural networks (CNNs) to accurately estimate gender and age from face photos. Increasing database variety and workflow management.
+5. Review of the Literature: Previous studies on age, gender, and emotion detection from voice and face imagery. Real-world data challenges and potential solutions utilising CNNs.
+6. Conclusion: Potential applications of gender and age detection, the necessity of data-driven algorithms, and the need for additional accuracy and resilience developments.
 
-//Search String
-("webcam" OR "digital device") AND ("gender detection" OR "age detection") AND ("additional trained data" OR "complex system") AND ("detection performance" OR "object recognition") AND ("data science" OR "machine learning") AND ("gender detection" OR "age prediction") AND ("feature extraction" OR "image processing") AND ("data science algorithm" OR "large amount of data") AND ("object recognition" OR "object detection") AND ("Haar feature-based cascade classifiers" OR "face object detection")
+Research Question
+In individuals of various age groups, how are the age and gender estimated using data science techniques in deep learning-based CNN technique and compared to the traditional methods for age and gender estimation using automatic face recognition?
 
-//Inclusion and Exclusion criteria
+Search String
+"IEEEXplore" OR "IEEE digital library" AND "Age Estimation" AND (published within "2013-2023") OR "CNN", "gender detection", "gender classification", "deep learning", "Face Detection", "Face Recognition" OR "Machine Learning".
 
-//Inclusion Criteria
+Inclusion/Exclusion Criteria
 
-Papers that discuss or propose methods for gender detection and age prediction using webcams or digital devices.
-Papers that explore the use of additional trained data or complex systems to improve detection performance in gender and age detection.
-Papers that investigate the suitability of data science approaches for future outcomes based on gender and age detection.
-Papers that focus on feature extraction and image processing techniques in gender detection and age prediction.
-Papers that discuss the use of data science algorithms and their reliance on large amounts of data for object recognition.
-Papers that explore effective object detection methods, specifically in the context of face object detection using Haar feature-based cascade classifiers.
+Inclusion Criteria
+Study
+Individuals from various age groups, encompassing children, adolescents, adults, and the elderly.
 
-//Exclusion Criteria
+Methodology
+Studies involving data science techniques, specifically deep learning-based Convolutional Neural Networks (CNNs).
+Research centered on age and gender estimation using automatic face recognition methods.
 
-Papers that do not specifically address gender detection or age prediction.
-Papers that do not mention the use of webcams, digital devices, or any relevant technology for detection.
-Papers that do not discuss the use of additional trained data or complex systems to improve detection performance.
-Papers that are not focused on data science approaches or machine learning techniques.
-Papers that do not mention feature extraction, image processing, or object recognition in relation to gender detection or age prediction.
-Papers that do not discuss the use of Haar feature-based cascade classifiers or any relevant object detection methods.
+Source of Article
+Articles sourced from the IEEEXplore digital library.
+Emphasis on topics relevant to the study's research question.
+
+Language
+Articles that were published in English only were published
+
+Date Of Publication
+Papers published within the last 10 years from the current date of research.
+
+Exclusion Criteria
+Study
+Studies limited to specific age groups or demographics.
+
+Methodology
+Research not utilizing data science techniques, particularly deep learning-based CNNs.
+Studies not involving age and gender estimation through automatic face recognition.
+
+Source Of Article
+Articles that aren't available in the IEEEXplore digital collection are excluded.
+Articles that are not closely relevant to the study's theme area should be excluded.
+
+Language
+Papers written in languages other than English were not considered.
+
+Date of Publication
+Papers published more than ten years ago are excluded from the current research date.
