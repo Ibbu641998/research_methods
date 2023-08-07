@@ -1,0 +1,52 @@
+Revised Topic
+Gender and Age Detection with Deep Learning: Analysing Facial Attributes for Intelligent Applications"
+1. Introduction: The role of age and gender in social interactions, as well as the relevance of these factors in applications such as access control, human-computer interface, and law enforcement.
+2. Dataset and Methodology: The goal of this study is to create a gender and age detector utilising deep learning, with an emphasis on CNN technology and data mining approaches.
+3. Facial Analysis Difficulties: Face detection complexity owing to illumination, position, and expressions. Variations in perceived compared to true age. The significance of facial features such as brows and facial landmarks.
+4. Deep Learning Approaches: Using convolutional neural networks (CNNs) to accurately estimate gender and age from face photos. Increasing database variety and workflow management.
+5. Review of the Literature: Previous studies on age, gender, and emotion detection from voice and face imagery. Real-world data challenges and potential solutions utilising CNNs.
+6. Conclusion: Potential applications of gender and age detection, the necessity of data-driven algorithms, and the need for additional accuracy and resilience developments.
+
+Research Question
+In individuals of various age groups, how are the age and gender estimated using data science techniques in deep learning-based CNN technique and compared to the traditional methods for age and gender estimation using automatic face recognition?
+
+Search String
+"IEEEXplore" OR "IEEE digital library" AND "Age Estimation" AND (published within "2013-2023") OR "CNN", "gender detection", "gender classification", "deep learning", "Face Detection", "Face Recognition" OR "Machine Learning".
+
+Inclusion/Exclusion Criteria
+
+Inclusion Criteria
+Study
+Individuals from various age groups, encompassing children, adolescents, adults, and the elderly.
+
+Methodology
+Studies involving data science techniques, specifically deep learning-based Convolutional Neural Networks (CNNs).
+Research centered on age and gender estimation using automatic face recognition methods.
+
+Source of Article
+Articles sourced from the IEEEXplore digital library.
+Emphasis on topics relevant to the study's research question.
+
+Language
+Articles that were published in English only were published
+
+Date Of Publication
+Papers published within the last 10 years from the current date of research.
+
+Exclusion Criteria
+Study
+Studies limited to specific age groups or demographics.
+
+Methodology
+Research not utilizing data science techniques, particularly deep learning-based CNNs.
+Studies not involving age and gender estimation through automatic face recognition.
+
+Source Of Article
+Articles that aren't available in the IEEEXplore digital collection are excluded.
+Articles that are not closely relevant to the study's theme area should be excluded.
+
+Language
+Papers written in languages other than English were not considered.
+
+Date of Publication
+Papers published more than ten years ago are excluded from the current research date.
